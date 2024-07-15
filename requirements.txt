@@ -1,0 +1,2 @@
+fabric==3.2.2 
+colorama==0.4.6
